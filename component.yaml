@@ -1,0 +1,32 @@
+id: CameraTrapBenchmark:1.0.0
+name: "'Continually Adapt or Not' Benchmark"
+owner: Sooyoung Jeon
+primaryThrust: core/FoundationAI
+status: Prototype
+description: A curated benchmark for evaluating the performance of pre-trained models and fostering the development of adaptation algorithms in the camera trap domain.
+componentVersion: 1.0.0
+targetIcicleRelease: 2025-10
+licenseUrl: https://github.com/ICICLE-ai/CAN-Benchmark/blob/main/LICENSE
+website: https://github.com/ICICLE-ai/CAN-Benchmark
+sourceCodeUrl: https://github.com/ICICLE-ai/CAN-Benchmark
+releaseNotesUrl: ""
+doi: ""
+citation: ""
+pypiPackage: ""
+containerImage: ""
+hpcModule: ""
+unixPackage: ""
+rustCrate: ""
+javaJar: ""
+artifactOther: ""
+codeReviewConducted: false
+testsWritten: true
+securityReviewConducted: false
+biasAssessmentConducted: false
+usageDocumentationAvailable: true
+usageDocumentationUrl: https://github.com/ICICLE-ai/CAN-Benchmark#readme
+developerDocumentationAvailable: false
+developerDocumentationUrl: ""
+trainingTutorialsAvailable: false
+trainingTutorialsUrl: ""
+usageMetricsCollected: false
